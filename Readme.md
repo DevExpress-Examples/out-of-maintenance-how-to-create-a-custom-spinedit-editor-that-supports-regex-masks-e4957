@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/CustomSpinEdit/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/CustomSpinEdit/MainWindow.xaml.vb))
+* [MainWindow.xaml.cs](./CS/CustomSpinEdit/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/CustomSpinEdit/MainWindow.xaml.vb))
+<!-- default file list end -->
 # How to create a custom SpinEdit editor that supports RegEx masks
 
 
